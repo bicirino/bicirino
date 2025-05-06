@@ -6,10 +6,10 @@
 ---
 
 ### 📊 GitHub Stats
-![bicirino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUser&show_icons=true&theme=dark)
+![bicirino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bicirino&show_icons=true&theme=dark)
 
 ### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicirino&layout=compact&theme=dark)
 
 ---
 
