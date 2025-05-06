@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Sou o Gabriel Martins Cirino👋
 
-<!--
-**bicirino/bicirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Ciências da computação | UniCeub 
+📘 Aprendendo: Python, C, DataBase e Modelagem física computacional 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![SeuUser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUser&show_icons=true&theme=dark)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser&layout=compact&theme=dark)
+
+---
+
+### 📱 Meios de contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuuser)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuuser)
+
