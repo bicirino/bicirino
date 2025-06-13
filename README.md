@@ -1,7 +1,7 @@
 # Olá! Sou o Gabriel Martins Cirino👋
 
 🎓 Sou estudante de Ciências da computação | UniCeub 
-📘 Aprendendo: Python, C, HTML, DataBase e muitas outras tecnologias 
+📘 Aprendendo: Python, C, SQL e muitas outras tecnologias 
 
 ---
 
