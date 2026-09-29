@@ -30,8 +30,8 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bicirino&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicirino&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bicirino&theme=2077" alt="Estatísticas" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bicirino&theme=2077" alt="Linguagens" height="150"/>
 </p>
 
 ---
