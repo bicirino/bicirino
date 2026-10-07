@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Martins Cirino 👋
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente atuando e estudando focado em **Desenvolvimento  & DevOps**
+- 🔭 Atualmente atuando e estudando **Desenvolvimento  & DevOps**
 - 🎯 Foco em engenharia de software, automação de infraestrutura, CI/CD e arquitetura em nuvem
   
 ---
